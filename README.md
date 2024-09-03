@@ -1,24 +1,26 @@
 # Web Dev Starter Code
 
+Wylie Hansen  
+CS 408  
+August 25, 2024
+
 ## Overview
 
-TODO: Write a project description
+This was a practice exercise where we were given a plain text file and a CSS file
+and then wrote HTML to match the formatting of a provided example.
+
+## Running
+
+This webpage is only made for text display, and since there are no scripts to run it can be
+viewed either by opening the raw html file in a browser window, or by running a local server
+through VS Code's preview function. To use the preview function, the Live Preview extension
+must be installed.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- MDN Web Docs, for referencing html syntax:
+    -https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 
-A simple bulleted list below is sufficient. For example:
+- Shane Panter, for starter code and for base text and CSS files.
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+
